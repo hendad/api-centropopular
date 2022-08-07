@@ -20,6 +20,7 @@ class Server {
     }
 
 //morgan para que me salgan los errores 
+//NEW NEW HENDAD ACOSTA 
 //port el puerto de iicializacion de la pp 
 //cors las peticiones htttp 
 //expressjson las peticiones json 
